@@ -1,5 +1,5 @@
 name = Cat Lover
-description = Main theme of civic commons with Omega Base theme
+description = Main theme of the Apps Catalog distro
 core = 7.x
 engine = phptemplate
 screenshot = screenshot.png
